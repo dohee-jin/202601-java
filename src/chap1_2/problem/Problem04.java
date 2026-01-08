@@ -1,4 +1,4 @@
-package chap1_2;
+package chap1_2.problem;
 
 public class Problem04 {
     public static void main(String[] args) {
