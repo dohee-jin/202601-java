@@ -1,4 +1,4 @@
-package chap1_2.problem;
+package dataType.problem;
 
 public class Problem01 {
     public static void main(String[] args) {

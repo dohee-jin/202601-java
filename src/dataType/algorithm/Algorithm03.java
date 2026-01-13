@@ -1,4 +1,4 @@
-package chap1_2.algorithm;
+package dataType.algorithm;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package chap1_2.algorithm;
+package dataType.algorithm;
 
 /**
  * 알고리즘: 문자열 토큰 정수 파싱 + 범위 판정
